@@ -11,12 +11,9 @@ Here i built an API for a social network web application where users can share t
 
 ## Table of Contents
 - [Installation](#installation)
-- Clone repo into your own
 - [Usage Instructions](#usage-instructions)
 - [Contribution Guidelines](#contribution-guidelines)
-- SparkkyJD
 - [Test Instructions](#test-instructions)
-- Non at this time
 - [Questions](#questions)
 - [License Type](#license-type)
 
