@@ -1,5 +1,10 @@
-# NoSQL-Social-Network-API
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Insomnia](https://img.shields.io/badge/Insomnia-Workspace-green)](https://insomnia.rest/)
+[![Node.js](https://img.shields.io/badge/Node.js-v14.x-green)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v4.4-blue)](https://www.mongodb.com/)
+[![NoSQL](https://img.shields.io/badge/NoSQL-Database-blueviolet)](https://en.wikipedia.org/wiki/NoSQL)
+[![dotenv](https://img.shields.io/badge/dotenv-Config-orange)](https://www.npmjs.com/package/dotenv)
+[![Express.js](https://img.shields.io/badge/Express.js-v4.x-lightgrey)](https://expressjs.com/)
 ![License: MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen.svg)
 
 
